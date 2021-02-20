@@ -18,7 +18,7 @@ from keras.datasets import cifar10
 ## List
 1. SimulateFunction.ipynb : For HW1-1 Simulate a function
 
-2. MNIST_CNN.ipynb : For HW1-1 Actual task
+2. CNN_MNIST.ipynb : For HW1-1 Actual task
 
 3. CNN_CIFAR10.ipynb : for HW1-1 Actual task
 
