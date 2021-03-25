@@ -1,6 +1,6 @@
 # Deep-Learning
 
-##HW 1
+## HW 1
 
 ### Install
 
@@ -32,7 +32,7 @@ from keras.datasets import cifar10
 
 7. interpolation.ipynb : for HW1-3 Flatness v.s. Generalization Part 1
 
-##HW2
+## HW2
 
 
 
