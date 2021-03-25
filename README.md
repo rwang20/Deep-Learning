@@ -1,6 +1,8 @@
 # Deep-Learning
 
-## Install
+##HW 1
+
+### Install
 
 tensorflow version 2.4.1
 
@@ -15,7 +17,7 @@ from keras.datasets import mnist
 from keras.datasets import cifar10
 ```
 
-## List
+### List
 1. SimulateFunction.ipynb : For HW1-1 Simulate a function
 
 2. CNN_MNIST.ipynb : For HW1-1 Actual task
@@ -30,6 +32,7 @@ from keras.datasets import cifar10
 
 7. interpolation.ipynb : for HW1-3 Flatness v.s. Generalization Part 1
 
+##HW2
 
 
 
