@@ -34,9 +34,9 @@ from keras.datasets import cifar10
 
 ## HW2
 
-model_s2s_att.ipynb is run at Google colab
-
 tensorflow version 2.4.1
+
+model_s2s_att.ipynb is run at Google colab
 
 ```
 !pip install ansicolors
