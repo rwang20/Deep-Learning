@@ -34,5 +34,12 @@ from keras.datasets import cifar10
 
 ## HW2
 
+model_s2s_att.ipynb is run at Google colab
 
+tensorflow version 2.4.1
 
+```
+!pip install ansicolors
+```
+
+save_models folder location: https://drive.google.com/drive/u/2/folders/1EmEotgv1iwzT1ssrkEo-QdYmQ5JN4N5y 
