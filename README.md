@@ -43,3 +43,16 @@ model_s2s_att.ipynb is run at Google colab
 ```
 
 save_models folder location: https://drive.google.com/drive/u/2/folders/1EmEotgv1iwzT1ssrkEo-QdYmQ5JN4N5y 
+
+## HW3
+
+tensorflow version 2.4.1
+
+keras version 2.4.0
+
+1. dcgan.py : For DCGAN
+
+2. wgan.py : For WGAN
+
+3. acgan.py : for ACGAN
+
